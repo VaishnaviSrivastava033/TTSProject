@@ -1,0 +1,8 @@
+streamlit
+torch
+torchaudio
+transformers
+pyttsx3
+soundfile
+numpy
+datasets
